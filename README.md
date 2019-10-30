@@ -1,5 +1,5 @@
 # Awesome Cloudstate Languages ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-Cloudstate, is a specification, protocol, and reference implementation for providing distributed state management patterns suitable for Serverless computing. The current supported and envisioned patterns include:
+[Cloudstate](https://cloudstate.io/), is a specification, protocol, and reference implementation for providing distributed state management patterns suitable for Serverless computing. The current supported and envisioned patterns include:
 
 *    Event Sourcing
 *    Conflict-Free Replicated Data Types (CRDTs)
