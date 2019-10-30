@@ -1,11 +1,11 @@
 # Awesome Cloudstate Languages ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 Cloudstate, is a specification, protocol, and reference implementation for providing distributed state management patterns suitable for Serverless computing. The current supported and envisioned patterns include:
 
-    Event Sourcing
-    Conflict-Free Replicated Data Types (CRDTs)
-    Key-Value storage
-    P2P messaging
-    CQRS read side projections
+*    Event Sourcing
+*    Conflict-Free Replicated Data Types (CRDTs)
+*    Key-Value storage
+*    P2P messaging
+*    CQRS read side projections
 
 This repo contains a list of languages that currently imply the specification protocol :octocat:
 
