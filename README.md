@@ -25,4 +25,5 @@ This repo contains a list of languages that currently imply the specification pr
 :egg: [Python](#python)</br>
 :egg: [Ruby](#ruby)</br>
 :egg: [Rust](#rust)</br>
+:hatched_chick: [Scala](#scala)</br>
 --------------------
